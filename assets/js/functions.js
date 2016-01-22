@@ -1043,7 +1043,7 @@ function validate_and_submit_forms(form_object)
                     var message = "";
                     switch(data) {
                         case "success":
-                            message = "Form submitted successfully.";
+                            message = "We will reach out to you shortly!";
                             break;
                         case "captcha":
                             message = "Incorrect text entered. (Case-sensitive)";

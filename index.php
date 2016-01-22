@@ -42,7 +42,7 @@
     <![endif]-->
   </head>
 
-  <body data-default-background-img="assets/images/other_images/bg5.jpg" data-overlay="true" data-overlay-opacity="0.35">
+  <body data-default-background-img="assets/images/1.jpg" data-overlay="true" data-overlay-opacity="0.35">
 
     <!-- Outer Container -->
     <div id="outer-container">
@@ -132,7 +132,7 @@
                   <!-- grid item -->
                   <div class="grid-item col-md-6">
                     <div class="item-content clearfix">
-                      <span class="icon fa fa-mobile"></span>
+                      <span class="icon icomoon icon-drone-3"></span>
                       <div class="text-content">
                         <h5>Software That Empowers Field Workers</h5>
                         <p>The Hawkeye software suite (need to brand this eventually) automates many of the common post-flight
@@ -145,7 +145,7 @@
                   <!-- grid item -->
                   <div class="grid-item col-md-6">
                     <div class="item-content clearfix">
-                      <span class="icon icomoon icon-drone-3"></span>
+                      <span class="icon icomoon icon-drone-7"></span>
                       <div class="text-content">
                         <h5>Mission Packages for Your Needs</h5>
                         <p>Hawkeye can be outfit to carry a number of sensor types at varying levels of performance. Let us
@@ -265,7 +265,7 @@
         </ul>
 
         <!-- copyright text -->
-        <div class="footer-text-line">&copy; 2016 The Hawkeye | Heron Systems</div>
+        <div class="footer-text-line">&copy; <?php echo date('Y') ?> The Hawkeye | Heron Systems</div>
       </section>
       <!-- end: Footer -->
 
